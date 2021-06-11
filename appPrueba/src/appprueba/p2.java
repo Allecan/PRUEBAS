@@ -13,5 +13,6 @@ public class p2 {
     private int minumero = 0;
     public void ver(){
         System.out.println("Escribo mi numero");
+        System.out.println("ADYUASAAAAAAS");
     }
 }
