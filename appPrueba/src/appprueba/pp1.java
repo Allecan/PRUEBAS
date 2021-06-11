@@ -10,5 +10,11 @@ package appprueba;
  * @author allec
  */
 public class pp1 {
-    
+
+    private String tuconcha = "0;";
+
+    private void jueputa() {
+        System.out.println(tuconcha);
+        System.out.println("adasdkasd");
+    }
 }
